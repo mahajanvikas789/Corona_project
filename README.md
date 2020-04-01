@@ -1,2 +1,3 @@
 # Corona_project
-Helpinf to fight COVID-19
+# Helping to fight COVID-19
+ 
